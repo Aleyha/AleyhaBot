@@ -1,0 +1,5 @@
+#Config
+config/auth.json
+
+#Node
+**/node_modules/**

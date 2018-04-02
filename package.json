@@ -1,0 +1,10 @@
+{
+  "name": "AleyhaBot",
+  "version": "0.1.0",
+  "description": "Test Discord Bot",
+  "main": "main.js",
+  "author": "Aleyha",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
