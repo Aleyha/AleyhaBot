@@ -1,14 +1,7 @@
-// function define(name, value) {
-//     Objecct.defineProperty(exports, name, {
-//         value: value,
-//         enumerable: true
-//     });
-// }
-
-// define('app-name', 'AleyhaBot');
-const CONSTANTS = {
+const NAME_CONSTANTS = {
     APP_NAME: 'AleyhaBot',
-    AUTH_FILE: './config/auth.json'
+    AUTH_FILE: './config/auth.json',
+    HELP_MSG: '**Commands**\n\n\t!*hello* - Be greeted!\n\t!*time* - Display the current time.'
 };
 
-module.exports = CONSTANTS;
+module.exports = NAME_CONSTANTS;
